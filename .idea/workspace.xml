@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d635685d-ff9b-493a-b81a-da1a940a3642" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/Assignment1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/DetectionNodeProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/DetectionNodeQues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/META-INF/Assignment1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/Sampler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/TestThreadCommunication$DetectionNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/TestThreadCommunication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetectionNodeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetectionNodeQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sampler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestThreadCommunication.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RDKcG6dFZNRLBpBgHXvQnoioQ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../E-Gineering/NeighborLink/NeighborLink-Server" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Assignment1">
+    <configuration name="Assignment1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Assignment1" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreadCommunication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TestThreadCommunication" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestThreadCommunication" />
+      <item itemvalue="Application.Assignment1" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d635685d-ff9b-493a-b81a-da1a940a3642" name="Default Changelist" comment="" />
+      <created>1569196303437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569196303437</updated>
+      <workItem from="1569196305018" duration="11777000" />
+      <workItem from="1569280342329" duration="43094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
