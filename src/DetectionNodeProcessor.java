@@ -44,13 +44,11 @@ public class DetectionNodeProcessor implements Runnable {
     }
 
     public void run() {
-        System.out.println("Inside Node " + getNodeId());
 
         int senderNodeId;
         int typeOfEvent;
 
         for (int i = 0; i < getNumberOfIterations(); i++) {
-            System.out.println("Inside node " + getNodeId() + " and i = " + i);
             typeOfEvent = generateTypeOfEvent();
             switch (typeOfEvent) {
                 case 0:
@@ -141,6 +139,7 @@ public class DetectionNodeProcessor implements Runnable {
         } else {
             senderLogicalClock = processorQues.getNodeLogicalClockFromIncomingMessage(incomingMessageFromSelectedNode);
             if (senderLogicalClock >= processorQues.getLogicalClock()) {
+                //System.out.println("DN "+getNodeId()+" LC was "+processorQues.getLogicalClock()+" and it advanced to "+senderLogicalClock+"+1 because senderNode "+senderNodeId+" LC was "+senderLogicalClock);
                 processorQues.setLogicalClock(senderLogicalClock+1);
                 message = processorQues.getLogicalClock()+" "+getNodeId()+" "+"receiving_event";
             }

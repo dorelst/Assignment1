@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d635685d-ff9b-493a-b81a-da1a940a3642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/Assignment1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/DetectionNodeProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/DetectionNodeQues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/META-INF/Assignment1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/Sampler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/TestThreadCommunication$DetectionNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment1/TestThreadCommunication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DetectionNodeProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DetectionNodeQues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sampler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestThreadCommunication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DetectionNodeProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetectionNodeProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sampler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569196303437</updated>
       <workItem from="1569196305018" duration="11777000" />
-      <workItem from="1569280342329" duration="43094000" />
+      <workItem from="1569280342329" duration="49621000" />
     </task>
     <servers />
   </component>
