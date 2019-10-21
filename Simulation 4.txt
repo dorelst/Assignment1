@@ -1,0 +1,90 @@
+Fourth simulation: sending event has double the probability to happen (50% chance), compare to internal and receiving (25% chance each) (Simulation 4.txt)
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+The samples for this simulation are:
+ | DN 0 has LC = 252 | DN 1 has LC = 253 | DN 2 has LC = 256 | DN 3 has LC = 294 | 
+ | DN 0 has LC = 10343 | DN 1 has LC = 12800 | DN 2 has LC = 14618 | DN 3 has LC = 12254 | 
+ | DN 0 has LC = 14253 | DN 1 has LC = 40889 | DN 2 has LC = 29117 | DN 3 has LC = 15745 | 
+ | DN 0 has LC = 14971 | DN 1 has LC = 55000 | DN 2 has LC = 63486 | DN 3 has LC = 16557 | 
+ | DN 0 has LC = 15255 | DN 1 has LC = 102409 | DN 2 has LC = 65515 | DN 3 has LC = 16826 | 
+ | DN 0 has LC = 15406 | DN 1 has LC = 120118 | DN 2 has LC = 97469 | DN 3 has LC = 17010 | 
+ | DN 0 has LC = 15462 | DN 1 has LC = 139892 | DN 2 has LC = 127565 | DN 3 has LC = 17091 | 
+ | DN 0 has LC = 15646 | DN 1 has LC = 166788 | DN 2 has LC = 150279 | DN 3 has LC = 17287 | 
+ | DN 0 has LC = 15716 | DN 1 has LC = 197309 | DN 2 has LC = 169614 | DN 3 has LC = 17363 | 
+ | DN 0 has LC = 15842 | DN 1 has LC = 203175 | DN 2 has LC = 213488 | DN 3 has LC = 17499 | 
+ | DN 0 has LC = 15997 | DN 1 has LC = 225074 | DN 2 has LC = 241283 | DN 3 has LC = 17653 | 
+ | DN 0 has LC = 16308 | DN 1 has LC = 252819 | DN 2 has LC = 262860 | DN 3 has LC = 18015 | 
+ | DN 0 has LC = 16418 | DN 1 has LC = 273109 | DN 2 has LC = 292348 | DN 3 has LC = 18137 | 
+ | DN 0 has LC = 16516 | DN 1 has LC = 286457 | DN 2 has LC = 328805 | DN 3 has LC = 18231 | 
+ | DN 0 has LC = 16749 | DN 1 has LC = 319323 | DN 2 has LC = 345450 | DN 3 has LC = 18478 | 
+ | DN 0 has LC = 16968 | DN 1 has LC = 334496 | DN 2 has LC = 379843 | DN 3 has LC = 18697 | 
+ | DN 0 has LC = 17169 | DN 1 has LC = 353462 | DN 2 has LC = 410314 | DN 3 has LC = 19057 | 
+ | DN 0 has LC = 17386 | DN 1 has LC = 375743 | DN 2 has LC = 437622 | DN 3 has LC = 19258 | 
+ | DN 0 has LC = 17612 | DN 1 has LC = 392343 | DN 2 has LC = 470569 | DN 3 has LC = 19509 | 
+ | DN 0 has LC = 17750 | DN 1 has LC = 421520 | DN 2 has LC = 491041 | DN 3 has LC = 19690 | 
+ | DN 0 has LC = 18118 | DN 1 has LC = 454233 | DN 2 has LC = 507551 | DN 3 has LC = 20103 | 
+ | DN 0 has LC = 18522 | DN 1 has LC = 479420 | DN 2 has LC = 531514 | DN 3 has LC = 20554 | 
+ | DN 0 has LC = 18782 | DN 1 has LC = 503449 | DN 2 has LC = 556960 | DN 3 has LC = 20811 | 
+ | DN 0 has LC = 19067 | DN 1 has LC = 539796 | DN 2 has LC = 570017 | DN 3 has LC = 21127 | 
+ | DN 0 has LC = 19396 | DN 1 has LC = 573856 | DN 2 has LC = 585281 | DN 3 has LC = 21476 | 
+ | DN 0 has LC = 19689 | DN 1 has LC = 608804 | DN 2 has LC = 599730 | DN 3 has LC = 21779 | 
+ | DN 0 has LC = 19979 | DN 1 has LC = 639824 | DN 2 has LC = 618026 | DN 3 has LC = 22178 | 
+ | DN 0 has LC = 20527 | DN 1 has LC = 665338 | DN 2 has LC = 641371 | DN 3 has LC = 22767 | 
+ | DN 0 has LC = 21076 | DN 1 has LC = 690205 | DN 2 has LC = 665454 | DN 3 has LC = 23277 | 
+ | DN 0 has LC = 21486 | DN 1 has LC = 718080 | DN 2 has LC = 686858 | DN 3 has LC = 23584 | 
+ | DN 0 has LC = 21626 | DN 1 has LC = 740762 | DN 2 has LC = 713755 | DN 3 has LC = 23863 | 
+ | DN 0 has LC = 21777 | DN 1 has LC = 758108 | DN 2 has LC = 746109 | DN 3 has LC = 24012 | 
+ | DN 0 has LC = 21909 | DN 1 has LC = 783141 | DN 2 has LC = 770762 | DN 3 has LC = 24197 | 
+ | DN 0 has LC = 22272 | DN 1 has LC = 804131 | DN 2 has LC = 799007 | DN 3 has LC = 24595 | 
+ | DN 0 has LC = 22452 | DN 1 has LC = 842489 | DN 2 has LC = 810389 | DN 3 has LC = 24673 | 
+ | DN 0 has LC = 22606 | DN 1 has LC = 874718 | DN 2 has LC = 827014 | DN 3 has LC = 25665 | 
+ | DN 0 has LC = 22726 | DN 1 has LC = 916674 | DN 2 has LC = 834777 | DN 3 has LC = 25832 | 
+ | DN 0 has LC = 22869 | DN 1 has LC = 951682 | DN 2 has LC = 848500 | DN 3 has LC = 26950 | 
+ | DN 0 has LC = 23137 | DN 1 has LC = 981487 | DN 2 has LC = 868193 | DN 3 has LC = 27193 | 
+ | DN 0 has LC = 23599 | DN 1 has LC = 999985 | DN 2 has LC = 898849 | DN 3 has LC = 27568 | 
+ | DN 0 has LC = 28521 | DN 1 has LC = 999985 | DN 2 has LC = 942273 | DN 3 has LC = 29222 | 
+ | DN 0 has LC = 30649 | DN 1 has LC = 999985 | DN 2 has LC = 981015 | DN 3 has LC = 38352 | 
+ | DN 0 has LC = 39319 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 60624 | 
+ | DN 0 has LC = 45466 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 104476 | 
+ | DN 0 has LC = 53708 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 146231 | 
+ | DN 0 has LC = 80466 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 169481 | 
+ | DN 0 has LC = 105553 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 194390 | 
+ | DN 0 has LC = 134040 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 215900 | 
+ | DN 0 has LC = 161949 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 238001 | 
+ | DN 0 has LC = 201054 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 248885 | 
+ | DN 0 has LC = 229511 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 270428 | 
+ | DN 0 has LC = 262422 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 287524 | 
+ | DN 0 has LC = 289780 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 310159 | 
+ | DN 0 has LC = 308696 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 341244 | 
+ | DN 0 has LC = 340219 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 359720 | 
+ | DN 0 has LC = 370825 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 379114 | 
+ | DN 0 has LC = 397924 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 402017 | 
+ | DN 0 has LC = 424453 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 425488 | 
+ | DN 0 has LC = 449784 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 450157 | 
+ | DN 0 has LC = 469660 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 480283 | 
+ | DN 0 has LC = 489092 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 510847 | 
+ | DN 0 has LC = 514085 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 535861 | 
+ | DN 0 has LC = 537045 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 562898 | 
+ | DN 0 has LC = 565433 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 584511 | 
+ | DN 0 has LC = 591162 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 608778 | 
+ | DN 0 has LC = 613814 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 636127 | 
+ | DN 0 has LC = 644375 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 655566 | 
+ | DN 0 has LC = 661044 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 688895 | 
+ | DN 0 has LC = 687318 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 712622 | 
+ | DN 0 has LC = 707949 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 741990 | 
+ | DN 0 has LC = 730860 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 769080 | 
+ | DN 0 has LC = 757779 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 792161 | 
+ | DN 0 has LC = 779252 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 820693 | 
+ | DN 0 has LC = 799809 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 850135 | 
+ | DN 0 has LC = 824055 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 875884 | 
+ | DN 0 has LC = 846570 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 903369 | 
+ | DN 0 has LC = 872688 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 927253 | 
+ | DN 0 has LC = 895575 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 954365 | 
+ | DN 0 has LC = 929981 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 969958 | 
+ | DN 0 has LC = 956595 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 993350 | 
+ | DN 0 has LC = 999807 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 1000132 | 
+ | DN 0 has LC = 1000138 | DN 1 has LC = 999985 | DN 2 has LC = 1000076 | DN 3 has LC = 1000132 | 
+-------------------------------------------------------
+-------------------------------------------------------
